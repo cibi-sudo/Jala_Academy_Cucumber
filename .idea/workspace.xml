@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5f4be4-3782-46a8-bc25-933fe62b27c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports 16_10_2023_16_15_32/Screenshot/embedded1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports 16_10_2023_16_15_32/Screenshot/embedded2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports 16_10_2023_16_15_32/Screenshot/embedded3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports 16_10_2023_16_15_32/Screenshot/embedded4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports 16_10_2023_16_15_32/html-reports/Report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/browserfactory/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hooks/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CreateEmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ForgetPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/CreateEmployeePageDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/HomePageStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/LoginPageStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testrunner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/01_LoginPage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/02_HomePage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/03_CreateEmployeePage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-    </list>
+    <list default="true" id="cd5f4be4-3782-46a8-bc25-933fe62b27c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
